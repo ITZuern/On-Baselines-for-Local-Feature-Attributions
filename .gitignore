@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Cursive Clojure plugin
+.idea/
+
+plots/
+
